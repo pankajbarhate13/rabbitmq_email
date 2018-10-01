@@ -2,7 +2,7 @@ Send Email with RabbitMQ with AWS in Node
 
 prerequisites:
 
-AWS account with SES enable 
-AWS Access Credentials
-Node 
-RabbitMQ Server
+1. AWS account with SES enable 
+2. AWS Access Credentials
+3. Node 
+4. RabbitMQ Server
